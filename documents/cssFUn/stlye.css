@@ -1,0 +1,13 @@
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline;
+    
+}
+#first{
+    background-color: red;
+}
+#second{
+    background-color: green;
+}

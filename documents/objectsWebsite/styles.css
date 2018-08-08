@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+div{
+    border: solid 3px green;
+    width: 50%;
+    margin: auto;
+    background-color: powderblue;
+    text-align: left;
+}
+
+span{
+    text-transform: uppercase;
+    font-size: 30px;
+    color: blue;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
